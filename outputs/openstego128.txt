@@ -1,0 +1,26 @@
+                      LSBR^   LSBM          HILL          UNIWARD *
+--------------------------------------------------------------------
+steganography_tes... [0.1]    0.0  (0.5)   [1.0] (0.5)   [1.0] (0.8)
+steganography_tes... [0.1]    0.0  (0.5)   [0.9] (0.6)   [0.9] (0.5)
+steganography_tes... [0.1]    0.0  (0.5)   [1.0] (0.5)   [1.0] (0.5)
+steganography_tes... [0.1]    0.0  (0.5)   [1.0] (0.5)   [1.0] (0.7)
+steganography_tes... [0.2]    0.0  (0.5)   [1.0] (0.6)   [0.8] (0.5)
+steganography_tes... [0.2]    0.0  (0.5)   [0.9] (0.5)   [1.0] (0.5)
+steganography_tes... [0.1]    0.0  (0.5)   [1.0] (0.5)   [1.0] (0.5)
+steganography_tes... [0.2]    0.0  (0.5)   [1.0] (0.5)   [1.0] (0.5)
+steganography_tes... [0.2]    0.0  (0.5)   [1.0] (0.5)   [1.0] (0.5)
+steganography_tes... [0.1]    0.0  (0.5)   [1.0] (0.5)   [1.0] (0.5)
+steganography_tes... [0.2]    0.0  (0.5)   [1.0] (0.6)   [1.0] (0.5)
+steganography_tes... [0.2]    0.0  (0.5)   [1.0] (0.5)   [1.0] (0.5)
+steganography_tes... [0.2]    0.0  (0.5)   [1.0] (0.5)   [1.0] (1.0)
+steganography_tes... [0.3]    0.0  (0.5)   [0.9] (0.5)   [0.9] (0.5)
+steganography_tes... [0.1]    0.0  (0.5)   [1.0] (0.5)   [1.0] (0.5)
+steganography_tes... [0.2]    0.0  (0.5)   [1.0] (0.5)   [1.0] (0.5)
+steganography_tes... [0.2]    0.0  (0.5)   [1.0] (0.7)   [1.0] (0.5)
+steganography_tes... [0.2]    0.0  (0.5)   [0.7] (0.5)    0.5  (0.5)
+steganography_tes... [0.1]    0.0  (0.5)   [1.0] (0.5)   [1.0] (1.0)
+steganography_tes... [0.2]    0.0  (0.5)   [1.0] (0.6)   [1.0] (0.5)
+
+ *  Probability of steganographic content using the indicated method.
+( ) Accuracy (confidence) of the results using the DCI-SI technique.
+ ^  In LSBR the estimated payload is shown instead of the probability.

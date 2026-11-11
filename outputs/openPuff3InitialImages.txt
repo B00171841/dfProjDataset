@@ -1,0 +1,4 @@
+WARNING: image ignored: /home/al/digitalForensicsProject/dfProjDataset/OpenPuff/Set1/steganography_test_artificial_z-function_512x512x1.png , expected number of channels: 3
+WARNING: image ignored: /home/al/digitalForensicsProject/dfProjDataset/OpenPuff/Set1/steganography_test_nasa_PIA14944_512x512x1.png , expected number of channels: 3
+WARNING: image ignored: /home/al/digitalForensicsProject/dfProjDataset/OpenPuff/Set1/steganography_test_nasa_PIA19643_512x512x1.png , expected number of channels: 3
+ERROR: please provide valid files

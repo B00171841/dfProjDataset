@@ -1,0 +1,7 @@
+                      LSBR^   LSBM          HILL          UNIWARD *
+--------------------------------------------------------------------
+steganography_tes... [0.9]    0.0  (0.5)   [1.0] (0.5)   [1.0] (0.5)
+
+ *  Probability of steganographic content using the indicated method.
+( ) Accuracy (confidence) of the results using the DCI-SI technique.
+ ^  In LSBR the estimated payload is shown instead of the probability.
